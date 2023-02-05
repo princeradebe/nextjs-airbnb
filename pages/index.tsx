@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      Airbnb Clone
+      Airbnb Clone, Link to JIRA
     </div>
   )
 }
